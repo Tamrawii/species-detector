@@ -1,0 +1,2 @@
+0 invasive
+1 non-invasive
